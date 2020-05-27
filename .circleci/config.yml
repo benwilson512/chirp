@@ -1,4 +1,4 @@
-version: 2  # use CircleCI 2.0 instead of CircleCI Classic
+version: 2.1  # use CircleCI 2.0 instead of CircleCI Classic
 
 workflows:
   version: 2.1
